@@ -16,7 +16,7 @@ body {
   padding: 20px;
 }
 
-/* TodoList компонент */
+
 .todo-list-container {
   max-width: 600px;
   margin: 0 auto;
@@ -271,7 +271,7 @@ body {
   background: #dc2626;
 }
 
-/* Анимации */
+
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -283,7 +283,7 @@ body {
   }
 }
 
-/* Адаптивность */
+
 @media (max-width: 640px) {
   .todo-list-container {
     padding: 10px;
